@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jCJxE+AueLyVcc8x0w03Rq22wmKD38XOjfaiS/pMSgvmNCm3waFn2shmUJHN4bmvRe5RbIZUEN0fYuYDLVLIJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\georg\\source\\repos\\CSharpWebModul\\WebBasics\\Exams\\IRunes\\IRunes-Skeleton (1)\\SIS.HTTP\\SIS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
