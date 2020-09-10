@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2bHzYpBTEFG0VP0cx/WjlJNThZ5bYC5QBiwp2eaaBhqLWvzHtVjGrIPl8AmCp2zyBE6oWv5/UIVAso3Rjy1toA==",
+  "dgSpecHash": "E4jOh0k+VqPkq5Yfu626YDtz1eQzODt6c2Hp7z3CR/IewDpBdlhVGVx8k6smWRJ1meuvvU/YtLtVRlO9t2eVFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\georg\\source\\repos\\CSharpWebModul\\WebBasics\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
+  "projectFilePath": "C:\\Users\\georg\\source\\repos\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.6\\microsoft.codeanalysis.analyzers.2.9.6.nupkg.sha512",

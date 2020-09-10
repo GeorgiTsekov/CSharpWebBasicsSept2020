@@ -7105,11 +7105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\CSharpWebModul\\WebBasics\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
       "projectName": "SIS.MvcFramework.Tests",
-      "projectPath": "C:\\Users\\georg\\source\\repos\\CSharpWebModul\\WebBasics\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
+      "projectPath": "C:\\Users\\georg\\source\\repos\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\source\\repos\\CSharpWebModul\\WebBasics\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.MvcFramework.Tests\\obj\\",
+      "outputPath": "C:\\Users\\georg\\source\\repos\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.MvcFramework.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7125,8 +7125,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\georg\\source\\repos\\CSharpWebModul\\WebBasics\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
-              "projectPath": "C:\\Users\\georg\\source\\repos\\CSharpWebModul\\WebBasics\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
+            "C:\\Users\\georg\\source\\repos\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+              "projectPath": "C:\\Users\\georg\\source\\repos\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
             }
           }
         }

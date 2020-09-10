@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RUfdhqxo4/mqdeXj5Urv0EAfB9TiMo9fYyzPbLZrk3OlTOiquJpXs+0+C3DMEvKrhL+Zqdmss3AXbtvOIU1rgg==",
+  "dgSpecHash": "sj+1Di46MH2eVNMEL14TDGU9DWcjtrjL0wbB/y/+F2ufYeKoCF4Gkxq1g4ylodYB5zctBhPWCZXSMuhjugvUPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\georg\\source\\repos\\CSharpWebModul\\WebBasics\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\Andreys\\Andreys.csproj",
+  "projectFilePath": "C:\\Users\\georg\\source\\repos\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\Andreys\\Andreys.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\CSharpWebModul\\WebBasics\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.HTTP\\SIS.HTTP.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.HTTP\\SIS.HTTP.csproj",
       "projectName": "SIS.HTTP",
-      "projectPath": "C:\\Users\\georg\\source\\repos\\CSharpWebModul\\WebBasics\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.HTTP\\SIS.HTTP.csproj",
+      "projectPath": "C:\\Users\\georg\\source\\repos\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.HTTP\\SIS.HTTP.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\source\\repos\\CSharpWebModul\\WebBasics\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.HTTP\\obj\\",
+      "outputPath": "C:\\Users\\georg\\source\\repos\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\CSharp-Web-Basics-Exam-Preparation-Part-1-Resources\\SIS.HTTP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
