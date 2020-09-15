@@ -53,10 +53,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
-    <Folder Include="Services\" />
     <Folder Include="ViewModels\Products\" />
-    <Folder Include="ViewModels\Users\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="ViewModels\Users\LoginInputModel.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Update="ViewModels\Users\RegisterInputModel.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
   </ItemGroup>
 
 </Project>
