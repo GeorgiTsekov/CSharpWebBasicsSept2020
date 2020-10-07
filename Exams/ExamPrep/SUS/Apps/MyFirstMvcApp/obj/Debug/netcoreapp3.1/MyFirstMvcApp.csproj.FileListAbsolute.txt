@@ -1,0 +1,17 @@
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.exe
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.deps.json
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.runtimeconfig.json
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.runtimeconfig.dev.json
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.dll
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\MyFirstMvcApp.pdb
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.csprojAssemblyReference.cache
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.AssemblyInfoInputs.cache
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.AssemblyInfo.cs
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.csproj.CoreCompileInputs.cache
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.dll
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.pdb
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.genruntimeconfig.cache
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\SUS.HTTP.dll
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\SUS.HTTP.pdb
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.csproj.CopyComplete
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\favicon.ico

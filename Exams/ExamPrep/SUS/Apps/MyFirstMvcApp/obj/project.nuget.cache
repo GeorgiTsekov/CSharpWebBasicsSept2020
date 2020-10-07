@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "89Tt9wGH70lCHMW0EtGciV/2D7G5NjIzDMJ+QZCX0rQho9nU0peWR8ETilnrAMnwJxkFlrYEWC57VKcxR9Z/nA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

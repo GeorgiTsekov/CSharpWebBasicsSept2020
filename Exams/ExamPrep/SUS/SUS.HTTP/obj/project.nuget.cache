@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tkon0+NjHyfQxyxDgyvf86GwctMmhkUnRI2PCcdjpwTQ17DlkT6vnApPlRSds5UAKWlxgK3AkTj2Gkt2JT8TJg==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
