@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/SUS.HTTP.dll": {}
         }
+      },
+      "SUS.MvcFramework/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SUS.MvcFramework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SUS.MvcFramework.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../../SUS.HTTP/SUS.HTTP.csproj",
       "msbuildProject": "../../SUS.HTTP/SUS.HTTP.csproj"
+    },
+    "SUS.MvcFramework/1.0.0": {
+      "type": "project",
+      "path": "../../SUS.MvcFramework/SUS.MvcFramework.csproj",
+      "msbuildProject": "../../SUS.MvcFramework/SUS.MvcFramework.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "SUS.HTTP >= 1.0.0"
+      "SUS.HTTP >= 1.0.0",
+      "SUS.MvcFramework >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -54,6 +70,9 @@
           "projectReferences": {
             "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
               "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.HTTP\\SUS.HTTP.csproj"
+            },
+            "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
+              "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj"
             }
           }
         }
@@ -76,18 +95,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -16,6 +16,7 @@ namespace MyFirstMvcApp
             server.AddRoute("/favicon.ico", Favicon);
             server.AddRoute("/about", About);
             server.AddRoute("/users/login", Login);
+            server.AddRoute("/users/register", Register);
 
             await server.StartAsync(80);
         }
@@ -46,6 +47,14 @@ namespace MyFirstMvcApp
         static HttpResponse Login(HttpRequest request)
         {
             var responseHtml = "<h1>Login...</h1>";
+            var responseBodyBytes = Encoding.UTF8.GetBytes(responseHtml);
+            var response = new HttpResponse("text/html", responseBodyBytes);
+            return response;
+        }
+        
+        static HttpResponse Register(HttpRequest request)
+        {
+            var responseHtml = "<h1>Register...</h1>";
             var responseBodyBytes = Encoding.UTF8.GetBytes(responseHtml);
             var response = new HttpResponse("text/html", responseBodyBytes);
             return response;
