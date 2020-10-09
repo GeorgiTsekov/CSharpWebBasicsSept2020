@@ -15,3 +15,16 @@ C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\n
 C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\SUS.HTTP.pdb
 C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.csproj.CopyComplete
 C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\favicon.ico
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\SUS.MvcFramework.dll
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\SUS.MvcFramework.pdb
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Users\Register.html
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Users\Login.html
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Home\Index.html
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Cards\Add.html
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Cards\All.html
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Cards\Collection.html
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Shared\_Layout.html
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\css\bootstrap.min.css
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\css\custom.css
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\js\bootstrap.bundle.min.js
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\js\custom.js

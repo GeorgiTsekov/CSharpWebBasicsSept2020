@@ -7,3 +7,6 @@ C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\SUS.MvcFramework\obj\Debug\net
 C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CoreCompileInputs.cache
 C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.dll
 C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.pdb
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CopyComplete

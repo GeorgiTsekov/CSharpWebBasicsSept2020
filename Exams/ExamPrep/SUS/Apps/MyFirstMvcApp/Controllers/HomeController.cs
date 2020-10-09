@@ -1,10 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using SUS.HTTP;
+using SUS.MvcFramework;
 
 namespace MyFirstMvcApp.Controllers
 {
-    class HomeController
+    public class HomeController : Controller
     {
+        public HttpResponse Index(HttpRequest request)
+        {
+            return this.View();
+        }
     }
 }
