@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SUS.MvcFramework.ViewEngine
 {
-    class ErrorView : IView
+    public class ErrorView : IView
     {
         private readonly IEnumerable<string> errors;
         private readonly string csharpCode;
@@ -19,7 +19,7 @@ namespace SUS.MvcFramework.ViewEngine
         public string ExecuteTemplate(object viewModel)
         {
             var html = new StringBuilder();
-            html.AppendLine($"<h1>View compile {this.errors.Count()} errors:</h1>");
+            html.AppendLine($"<h1>View compile {this.errors.Count()} errors:</h1><ul>");
             foreach (var error in this.errors)
             {
                 html.AppendLine($"<li>{error}</li>");

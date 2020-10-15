@@ -1,21 +1,24 @@
 ﻿using SUS.HTTP;
 using SUS.MvcFramework;
+using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace MyFirstMvcApp.Controllers
 {
     public class CardsController : Controller
     {
-        public HttpResponse Add(HttpRequest request)
+        public HttpResponse Add()
         {
             return this.View();
         }
 
-        public HttpResponse All(HttpRequest request)
+        public HttpResponse All()
         {
             return this.View();
         }
 
-        public HttpResponse Collection(HttpRequest request)
+        public HttpResponse Collection()
         {
             return this.View();
         }

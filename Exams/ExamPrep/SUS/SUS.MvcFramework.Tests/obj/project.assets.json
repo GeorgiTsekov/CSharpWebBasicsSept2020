@@ -4051,11 +4051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
+      "projectUniqueName": "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
       "projectName": "SUS.MvcFramework.Tests",
-      "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
+      "projectPath": "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework.Tests\\obj\\",
+      "outputPath": "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.MvcFramework.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4071,8 +4071,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
-              "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj"
+            "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
+              "projectPath": "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj"
             }
           }
         }

@@ -6,21 +6,19 @@ namespace SUS.HTTP
 {
     public class ResponseCookie : Cookie
     {
-        public ResponseCookie(string name, string value) 
+        public ResponseCookie(string name, string value)
             : base(name, value)
         {
             this.Path = "/";
         }
 
-        // Max-Age
         public int MaxAge { get; set; }
 
         public bool HttpOnly { get; set; }
 
         public string Path { get; set; }
 
-        // Domain, Secure, ...
-
+        // Set-Cookie: SSID=Ap4P…GTEq; Domain=foo.com; Path=/; Max-Age=2; Expires=Wed, 13 Jan 2021 22:23:01 GMT; Secure; HttpOnly
         public override string ToString()
         {
             StringBuilder cookieBuilder = new StringBuilder();
@@ -37,5 +35,7 @@ namespace SUS.HTTP
 
             return cookieBuilder.ToString();
         }
+
+        // Domain, Secure
     }
 }

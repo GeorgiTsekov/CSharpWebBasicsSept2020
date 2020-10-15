@@ -12,12 +12,12 @@ namespace SUS.HTTP
 
         public Header(string headerLine)
         {
-            // Cashe-Control: max-age=0
-            var headerParts = headerLine.Split(new string[] { ": " }, 2, StringSplitOptions.None);
-
+            var headerParts = headerLine.Split(new string[] { ": " },
+                2, StringSplitOptions.None);
             this.Name = headerParts[0];
             this.Value = headerParts[1];
         }
+
         public string Name { get; set; }
 
         public string Value { get; set; }

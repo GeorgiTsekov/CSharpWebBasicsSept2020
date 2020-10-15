@@ -12,7 +12,9 @@ namespace SUS.HTTP
             this.Headers = new List<Header>();
             this.Cookies = new List<Cookie>();
 
-            var lines = requestString.Split(new string[] { HttpConstants.NewLine }, StringSplitOptions.None);
+            var lines = requestString.Split(new string[] { HttpConstants.NewLine },
+                StringSplitOptions.None);
+
             var headerLine = lines[0];
             var headerLineParts = headerLine.Split(' ');
             this.Method = (HttpMethod)Enum.Parse(typeof(HttpMethod), headerLineParts[0], true);
@@ -44,9 +46,10 @@ namespace SUS.HTTP
 
             if (this.Headers.Any(x => x.Name == HttpConstants.RequestCookieHeader))
             {
-                var cookiesAsString = this.Headers.FirstOrDefault(x => x.Name == HttpConstants.RequestCookieHeader).Value;
-                var cookies = cookiesAsString.Split(new string[] { "; " }, StringSplitOptions.RemoveEmptyEntries);
-
+                var cookiesAsString = this.Headers.FirstOrDefault(x =>
+                    x.Name == HttpConstants.RequestCookieHeader).Value;
+                var cookies = cookiesAsString.Split(new string[] { "; " },
+                    StringSplitOptions.RemoveEmptyEntries);
                 foreach (var cookieAsString in cookies)
                 {
                     this.Cookies.Add(new Cookie(cookieAsString));

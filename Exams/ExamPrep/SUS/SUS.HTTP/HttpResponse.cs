@@ -33,7 +33,6 @@ namespace SUS.HTTP
         public override string ToString()
         {
             StringBuilder responseBuilder = new StringBuilder();
-
             responseBuilder.Append($"HTTP/1.1 {(int)this.StatusCode} {this.StatusCode}" + HttpConstants.NewLine);
             foreach (var header in this.Headers)
             {

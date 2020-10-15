@@ -8,6 +8,7 @@
             this.Value = value;
         }
 
+        // _ga=GA1.2.198505690.1579630167
         public Cookie(string cookieAsString)
         {
             var cookieParts = cookieAsString.Split(new char[] { '=' }, 2);

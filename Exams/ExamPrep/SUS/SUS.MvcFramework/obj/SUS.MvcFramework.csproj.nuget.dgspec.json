@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {}
+    "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
+    "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
+        "projectUniqueName": "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
         "projectName": "SUS.HTTP",
-        "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
+        "projectPath": "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.HTTP\\obj\\",
+        "outputPath": "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.HTTP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
+    "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
+        "projectUniqueName": "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
         "projectName": "SUS.MvcFramework",
-        "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
+        "projectPath": "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework\\obj\\",
+        "outputPath": "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.MvcFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
-                "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.HTTP\\SUS.HTTP.csproj"
+              "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
+                "projectPath": "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.HTTP\\SUS.HTTP.csproj"
               }
             }
           }

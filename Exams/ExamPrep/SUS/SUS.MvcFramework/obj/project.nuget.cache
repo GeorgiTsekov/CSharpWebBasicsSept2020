@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PgymlSQeTwVHF8zshPHsUZ2ze2eSqxXB3x6l9Cy1tgskQVYl9xqQOS2F5yf4gNBU3zR1nWtf+fZQW6AWSz5iOg==",
+  "dgSpecHash": "sdtCaRpj0YYW74YcdH3qwitDqeSNp5FpTlGoasMxjWtjSBHnvstgIWuWhMDqX0ugT8X1s/XhK/pI+MgNRemwkQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
+  "projectFilePath": "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.codeanalysis.common\\3.7.0\\microsoft.codeanalysis.common.3.7.0.nupkg.sha512",
