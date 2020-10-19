@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mIYdkMebT2NV/fIec3g3F/3fmfFlWImEKLkPFyiXATg2hOVkLACPy2ToF278YW17/vD25C1hk9+YRJjReHQZ2A==",
+  "dgSpecHash": "75JZMvzuvrtbOCtjN8RwPj7QMlN1aB/WUMU/rr/mdQPKX9xX+JwYtXJr9sGvT+q1hoSAD3Xk5Ym89gI1W2MUGA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\csharp-web-1a4b2cd2829a843a924799869271784561248e3e\\2020-Sept-Season\\SUS\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
+  "projectFilePath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\ExamPrep\\SUS\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
@@ -19,6 +19,7 @@
     "C:\\Users\\georg\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",

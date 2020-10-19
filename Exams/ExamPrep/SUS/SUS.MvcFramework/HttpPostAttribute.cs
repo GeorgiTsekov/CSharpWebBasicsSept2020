@@ -6,7 +6,6 @@ namespace SUS.MvcFramework
     {
         public HttpPostAttribute()
         {
-
         }
 
         public HttpPostAttribute(string url)
