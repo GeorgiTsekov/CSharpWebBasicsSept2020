@@ -1,0 +1,9 @@
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\CSharp-Web-Basics-Exam-Preparation-Resources\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\CSharp-Web-Basics-Exam-Preparation-Resources\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\CSharp-Web-Basics-Exam-Preparation-Resources\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\CSharp-Web-Basics-Exam-Preparation-Resources\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csprojAssemblyReference.cache
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\CSharp-Web-Basics-Exam-Preparation-Resources\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\CSharp-Web-Basics-Exam-Preparation-Resources\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\CSharp-Web-Basics-Exam-Preparation-Resources\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\CSharp-Web-Basics-Exam-Preparation-Resources\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\CSharp-Web-Basics-Exam-Preparation-Resources\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb
