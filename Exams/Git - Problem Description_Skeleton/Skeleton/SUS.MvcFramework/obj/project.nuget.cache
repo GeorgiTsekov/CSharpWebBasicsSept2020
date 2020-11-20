@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cyYmAzhoclToWwbIdhBz+NbIbqsvRO8wgf0AOrVR7R1HJVfnfZ9R2hms5o5tp51y7aENjrTARaHTUz0clsFiHQ==",
+  "dgSpecHash": "svlIVTdJQOXpY1TF7Ksqt/NqThXZE75bp2BurnWkV/6wNm7dZLl+W392npamMtkFs4nFSNv3p2c2t4roVLXrWw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
+  "projectFilePath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.codeanalysis.common\\3.7.0\\microsoft.codeanalysis.common.3.7.0.nupkg.sha512",

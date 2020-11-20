@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\Apps\\Git\\Git.csproj": {}
+    "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\Apps\\Git\\Git.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\Apps\\Git\\Git.csproj": {
+    "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\Apps\\Git\\Git.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\Apps\\Git\\Git.csproj",
+        "projectUniqueName": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\Apps\\Git\\Git.csproj",
         "projectName": "Git",
-        "projectPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\Apps\\Git\\Git.csproj",
+        "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\Apps\\Git\\Git.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\Apps\\Git\\obj\\",
+        "outputPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\Apps\\Git\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj": {
-                "projectPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj"
+              "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj": {
+                "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj"
               },
-              "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
-                "projectPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj"
+              "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
+                "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj": {
+    "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj",
+        "projectUniqueName": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj",
         "projectName": "SUS.HTTP",
-        "projectPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj",
+        "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\obj\\",
+        "outputPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
+    "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
+        "projectUniqueName": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
         "projectName": "SUS.MvcFramework",
-        "projectPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
+        "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\obj\\",
+        "outputPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -157,8 +157,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj": {
-                "projectPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj"
+              "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj": {
+                "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj"
               }
             }
           }

@@ -4150,11 +4150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
+      "projectUniqueName": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
       "projectName": "SUS.MvcFramework.Tests",
-      "projectPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
+      "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework.Tests\\obj\\",
+      "outputPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4170,8 +4170,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
-              "projectPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj"
+            "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
+              "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework\\SUS.MvcFramework.csproj"
             }
           }
         }

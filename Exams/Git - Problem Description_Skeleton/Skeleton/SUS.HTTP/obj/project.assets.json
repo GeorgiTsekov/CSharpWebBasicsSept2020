@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj",
+      "projectUniqueName": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj",
       "projectName": "SUS.HTTP",
-      "projectPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj",
+      "projectPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\SUS.HTTP.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\obj\\",
+      "outputPath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.HTTP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",

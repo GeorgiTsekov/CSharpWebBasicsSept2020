@@ -96,3 +96,4 @@ C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\Suls\obj\Debug\netcoreapp
 C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\Suls\obj\Debug\netcoreapp3.1\Suls.dll
 C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\Suls\obj\Debug\netcoreapp3.1\Suls.pdb
 C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\Suls\obj\Debug\netcoreapp3.1\Suls.genruntimeconfig.cache
+C:\Dev\CSharpWebBasicsSept2020\Exams\ExamPrep\SUS\Apps\Suls\obj\Debug\netcoreapp3.1\Suls.csprojAssemblyReference.cache

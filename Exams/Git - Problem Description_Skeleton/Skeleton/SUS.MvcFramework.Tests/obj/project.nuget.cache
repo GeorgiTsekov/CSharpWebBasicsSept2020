@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pd1i53yT/zKTtJWtqBPVcCfu4CSCKIFlhY8jTi1SuIhqNmGAIlVWt/I4jFvk3X1zuT1VmLGfTjYMtz+8Sw0dWA==",
+  "dgSpecHash": "WqhkHtRu1LBuKpoaYOuvbvBxtrpHHeDkr91SAWKf8+72yskymmWHXuwuos2+5EMiboemsYTololVPsSR4LDKSQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
+  "projectFilePath": "C:\\Dev\\CSharpWebBasicsSept2020\\Exams\\Git - Problem Description_Skeleton\\Skeleton\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
